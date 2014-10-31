@@ -1,0 +1,8 @@
+{
+  "name"        : "tripod",
+  "version"     : "0.0.1",
+  "description" : "Advanced console creation using hierarchical readline interfaces",
+  "main"        : "lib/Tripod.js",
+  "author"      : "Diogo Resende <dresende@thinkdigital.pt>",
+  "license"     : "MIT"
+}
